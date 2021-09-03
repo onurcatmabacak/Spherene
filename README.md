@@ -10,3 +10,11 @@ I only applied triangle mesh method to a square, but an option can be added to s
 
 More parser arguments can be added to enable/disable the conditions. 
 
+######################
+##### How to use #####
+######################
+
+python3 main.py -l <length> -a <area_limit> -d <degree_limit>
+
+It will create two png files regarding the comparison of the applied conditions (Degree threshold first, area threshold second).
+
